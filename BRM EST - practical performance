@@ -1,0 +1,9 @@
+GitHub Desktop is a graphical tool that allows users to manage Git repositories easily without using command-line
+commands. In Git, a commit is used to record changes made to one or more files in a branch. 
+
+Each commit is assigned a unique identifier called a SHA (hash), which stores details such as what changes were made, when they
+were made, and who made them.
+
+GitHub Desktop continuously detects file changes and displays them in the “Changes” section. Users can decide
+which files or specific lines should be included in a commit. This is done using staging, which helps in creating
+meaningful and well-organized commits.
